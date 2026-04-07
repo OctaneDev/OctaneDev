@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OctaneDev
 - 👀 I’m interested in civil engineering and astrophysics.
-- 🌱 I’m currently learning transportation engineering (and PyQt6).
-- 📫 How to reach me: inquiry@tysongates.com
+- 🌱 I’m currently translating Bootstrap 5 to Flutter.
+- 📫 How to reach me: aspen@aspentech.xyz
 
 <!---
 OctaneDev/OctaneDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
